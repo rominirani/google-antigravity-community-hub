@@ -1,4 +1,4 @@
-## 🔗 Quick Links
+## 🔗 Quick links to Antigravity Resources
 
 * [Antigravity Home](https://antigravity.google/)
 * [Antigravity Docs](https://antigravity.google/docs/get-started)
