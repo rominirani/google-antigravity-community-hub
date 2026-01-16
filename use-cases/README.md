@@ -7,9 +7,11 @@ A list of recommended resources that demonstrate building with Antigravity (e.g.
 01/15/2026 | [Google Antigravity — Using AI Agents to Create a website in under 10 mins](https://medium.com/google-cloud/google-antigravity-using-ai-agents-create-a-website-in-under-10-mins-eeba9ef17e73) | Ruban Siva |
 01/14/2026 | [The Modern Developer’s Blueprint: Integrating Documentation-Aware Agents in Google Antigravity](https://medium.com/google-cloud/the-modern-developers-blueprint-integrating-documentation-aware-agents-in-google-antigravity-016b87327867) | Ameya Suvarna |
 01/14/2026 | [Tutorial : Getting Started with Antigravity Skills](https://medium.com/google-cloud/tutorial-getting-started-with-antigravity-skills-864041811e0d) | Romin Irani |
+01/13/2025 | [Will Google Antigravity let me implement a terrible app idea?](https://seroter.com/2026/01/13/will-google-antigravity-let-me-implement-a-terrible-app-idea/) | Richard Seroter |
 01/06/2026 | [Using Chrome Remote Desktop to run Antigravity on a Cloud Workstation (or just in a Container)](https://medium.com/google-cloud/using-chrome-remote-desktop-to-run-antigravity-on-a-cloud-workstation-or-just-in-a-container-d00296425a0f) | Daniel Strebel |
 01/03/2026 | [How I Turned an Ugly Spreadsheet into an AI Assisted App with Anti-gravity](https://medium.com/google-cloud/how-i-turned-an-ugly-spreadsheet-into-an-ai-assisted-app-with-anti-gravity-2ba1d7b380c6) | Shir Meir Lador |
 12/24/2025 | [Antigravity ruined the Advent of Code for me](https://medium.com/google-cloud/antigravity-ruined-the-advent-of-code-for-me-42489c048bba) | Esther Lloyd |
+12/17/2025 | [Stop following tutorials and learn by building (with Antigravity) instead](https://seroter.com/2025/12/17/stop-following-tutorials-and-learn-by-building-with-antigravity-instead/) | Richard Seroter |
 12/15/2025 | [Implementing the Interactions API with Antigravity](https://medium.com/google-cloud/implementing-the-interactions-api-with-antigravity-22f3239d4585) | Guillaume Laforge |
 12/15/2025 | [Leveraging TPUs in Colab—featuring Antigravity](https://medium.com/google-cloud/leveraging-tpus-in-colab-featuring-antigravity-c312ad12c1b6) | Glen Yu |
 12/11/2025 | [Modularizing AI Agents: Integrating Google Apps Script Libraries with Gemini CLI and Antigravity](https://medium.com/google-cloud/modularizing-ai-agents-integrating-google-apps-script-libraries-with-gemini-cli-and-antigravity-7ba0416b6fef) | Kanshi Tanaike |
@@ -20,6 +22,7 @@ A list of recommended resources that demonstrate building with Antigravity (e.g.
 12/04/2025 | [Running Antigravity on a browser tab](https://medium.com/google-cloud/running-antigravity-on-a-browser-tab-6298bb7e47c4) | Lucia Subatin |
 12/03/2025 | [Power of Google Apps Script: Building MCP Server Tools for Gemini CLI and Google Antigravity in Workspace Automation](https://medium.com/google-cloud/power-of-google-apps-script-building-mcp-server-tools-for-gemini-cli-and-google-antigravity-in-71e754e4b740) | Kanshi Tanaike |
 12/01/2025 | [Google Antigravity Editor—Tips & Tricks](https://medium.com/google-cloud/google-antigravity-editor-tips-tricks-cffde820aa5c) | Mete Atamel |
+11/30/2025 | [Go from prompt to production using a set of AI tools, or just one (Google Antigravity)](https://seroter.com/2025/11/30/go-from-prompt-to-production-using-a-set-of-ai-tools-or-just-one-google-antigravity/) | Richard Seroter |
 11/30/2025 | [Running Colab on Antigravity](https://medium.com/google-cloud/running-colab-on-antigravity-8abe64cb3dfe) | xbill |
 11/27/2025 | [I Built a Complete Cloud SJust One Prompt—Here’s How Google Antigravity Changed Everything](https://medium.com/google-cloud/i-built-a-complete-cloud-sjust-one-prompt-heres-how-google-antigravity-changed-everything-5b4d35432a57) | Vishal Bulbule |
 11/25/2025 | [Running Antigravity on ChromeOS / ChromeOS Flex](https://medium.com/google-cloud/running-antigravity-on-chromeos-chromeos-flex-cbb6b53c1541) | xbill |
