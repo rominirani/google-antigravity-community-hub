@@ -13,9 +13,7 @@ We have organized resources into high-level categories to help you find exactly 
 | **[`/getting-started`](./getting-started)** | Articles/Videos that are help to learn/get started with Antigravity. |
 | **[`/codelabs`](./codelabs)** | Step-by-step tutorials that allow you to take Antigravity for a spin. |
 | **[`/use-cases`](./use-cases)** | Articles/Videos that demonstrate building with Antigravity (e.g., Pomodoro Timers, Web Scrapers). |
-| **[`/skills`](./skills)** | Extending Agent capabilities. Articles/Videos and Reusable capabilities (like Linters or API wrappers) you can drop into your project. |
-| **[`/workflows`](./workflows)** | Orchestration patterns. Articles/Videos and Recipes for complex sequences (e.g., "TDD Cycle" or "Legacy Migration"). |
-| **[`/rules`](./rules)** | Constraints and Context. Articles/Videos and Recipes that define coding standards, style guides, and boundaries for your Agents. |
+| **[`/workflows-rules-skills`](./workflows-rules-skills)** | Articles/Videos that discuss how to extend Agent capabilities, definining Agent constraints, guiding the Agent through steps. |
 | **[`/resources`](./resources)** | Any other reference material on Antigravity. |
 
 ---
