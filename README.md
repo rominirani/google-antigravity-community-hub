@@ -31,4 +31,4 @@ This is a community-driven project, and contributions are welcome! Whether you h
 3. **Add** your content to the appropriate folder.
 4. **Commit** your changes.
 
-or share the content link and details in the [Issues](https://github.com/rominirani/google-antigravity-community-hub/issues/new).
+or create a new [Issue](https://github.com/rominirani/google-antigravity-community-hub/issues/new) and provide the content link & details. 
