@@ -16,7 +16,6 @@ We have organized resources into high-level categories to help you find exactly 
 | **[`/skills`](./skills)** | Extending Agent capabilities. Articles/Videos and Reusable capabilities (like Linters or API wrappers) you can drop into your project. |
 | **[`/workflows`](./workflows)** | Orchestration patterns. Articles/Videos and Recipes for complex sequences (e.g., "TDD Cycle" or "Legacy Migration"). |
 | **[`/rules`](./rules)** | Constraints and Context. Articles/Videos and Recipes that define coding standards, style guides, and boundaries for your Agents. |
-| **[`/prompts`](./prompts)** | A library of effective system instructions and personas (e.g., "Senior Architect," "QA Tester"). |
 | **[`/resources`](./resources)** | Any other reference material on Antigravity. |
 
 ---
