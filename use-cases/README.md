@@ -1,6 +1,6 @@
-# Articles/Videos that demonstrate building with Antigravity (e.g., Pomodoro Timers, Web Scrapers).
+# Articles/Videos 
 
-A list of resources recommended by the community is given below: 
+A list of recommended resources that demonstrate building with Antigravity (e.g., Pomodoro Timers, Web Scrapers).
 
 | Title (link) | Description | 
 | :--- | :--- |
