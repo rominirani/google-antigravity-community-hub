@@ -18,5 +18,8 @@ If you are new to Antigravity, we recommend following this path sequentially to 
 
 ## 🏁 Getting Started Resources
 
+A list of getting started resources recommended by the community is given below: 
 
+| Title (link) | Description | 
+| :--- | :--- |
 
