@@ -3,6 +3,7 @@ A list of recommended resources that demonstrate building with Antigravity (e.g.
 
 | Publication Date (MM/DD/YYYY) | Title (link) | Author | 
 | :--- | :--- |:--- |
+01/20/2026 | [Beyond Web Apps: Designing Database with Google Antigravity](https://seroter.com/2026/01/20/beyond-web-apps-designing-database-with-google-antigravity/) | Richard Seroter|
 01/19/2026 | [Parallel Agents in Antigravity](https://medium.com/google-cloud/parallel-agents-in-antigravity-64237120161d) | Mete Atamel|
 01/15/2026 | [How Google Antigravity is changing spec-driven development](https://medium.com/google-cloud/benefits-and-challenges-of-spec-driven-development-and-how-antigravity-is-changing-the-game-3343a6942330) | Giovanni Galloro|
 01/15/2026 | [Google Antigravity — Using AI Agents to Create a website in under 10 mins](https://medium.com/google-cloud/google-antigravity-using-ai-agents-create-a-website-in-under-10-mins-eeba9ef17e73) | Ruban Siva |
