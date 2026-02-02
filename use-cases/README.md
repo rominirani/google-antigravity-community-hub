@@ -3,6 +3,7 @@ A list of recommended resources that demonstrate building with Antigravity (e.g.
 
 | Publication Date (MM/DD/YYYY) | Title (link) | Author | 
 | :--- | :--- |:--- |
+01/31/2026 | [Antigravity the Ralph Wiggum style](https://medium.com/google-cloud/antigravity-the-ralph-wiggum-style-ee6784a78237) | Remigiusz Samborski |
 01/23/2026 | [Beyond the “Happy Path”: Adding SpecKit to my Antigravity Workflow](https://medium.com/google-cloud/beyond-the-happy-path-adding-speckit-to-my-antigravity-workflow-db6ed2f6ca0c) | Alvin Prayuda Juniarta Dwiyantoro |
 01/22/2026 | [How Gemini, Antigravity, and BigQuery Help Create a License Compliance Checker](https://medium.com/google-cloud/license-compliance-agent-gemini-bigquery-5b9d2fa3a3ba) | Arun Shinde|
 01/20/2026 | [Beyond Web Apps: Designing Database with Google Antigravity](https://seroter.com/2026/01/20/beyond-web-apps-designing-database-with-google-antigravity/) | Richard Seroter|
