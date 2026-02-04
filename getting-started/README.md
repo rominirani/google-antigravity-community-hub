@@ -14,6 +14,10 @@ If you are new to Antigravity, we recommend following this path sequentially to 
 **🛠️ Codelab:** [Building with Google Antigravity](https://bit.ly/4pHICPy)  
 *Move beyond "Hello World." Build full-stack applications and utilize the **Browsing** capability to have agents research the web.*
 
+### 4. Build and Deploy Google Cloud Serverless Apps
+**🛠️ Codelab:** [Building with Google Antigravity](https://bit.ly/4avbbLv)  
+*In this codelab, you will learn how to use Google Antigravity to design, build, and deploy a serverless application to Google Cloud. We will build a serverless and event-driven document pipeline that ingests files from Google Cloud Storage (GCS), processes them using Cloud Run and Gemini, and streams their metadata into BigQuery.*
+
 ---
 
 ## 🏁 Getting Started Resources
