@@ -42,5 +42,6 @@ A list of recommended resources that demonstrate building with Antigravity (e.g.
 11/20/2025 | [Google’s Antigravity & Gemini 3: A Developer’s Honest First Look](https://medium.com/google-cloud/googles-antigravity-gemini-3-a-developer-s-honest-first-look-d39326ebb3fd) | Vikas Ranjan |
 11/20/2025 | [Save Tokens with TOON using Google Antigravity and the Gemini CLI](https://medium.com/google-cloud/save-tokens-with-toon-using-google-antigravity-and-the-gemini-cli-e9a641c06ea8) | Karl Weinmeister |
 11/20/2025 | [Antigravity and PostgreSQL: No gravity, only vibes](https://medium.com/google-cloud/antigravity-and-postgresql-no-gravity-only-vibes-46a7699fd21f) | MCP Toolbox for Databases |
+11/19/2025 | [Tutorial : Getting Started with Google Antigravity](https://medium.com/google-cloud/tutorial-getting-started-with-google-antigravity-b5cc74c103c2) | Romin Irani |
 11/19/2025 | [I Tried Google’s New Antigravity AI Coding Tool on Launch Day: Here’s My Honest First Look](https://medium.com/google-cloud/i-tried-googles-new-antigravity-ai-coding-tool-on-launch-day-here-s-my-honest-first-look-c9cfb5958fda) | Nisrine Amimi |
 11/18/2025 | [The Era of Action with Gemini 3 Pro & Google Antigravity](https://medium.com/google-cloud/the-era-of-action-with-gemini-3-pro-google-antigravity-853b935c5df0) | Thomas Chong |
