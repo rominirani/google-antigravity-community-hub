@@ -3,6 +3,7 @@ A list of recommended resources that demonstrate building with Antigravity (e.g.
 
 | Publication Date (MM/DD/YYYY) | Title (link) | Author | 
 | :--- | :--- |:--- |
+02/13/2026 | [The “Thinking Tax”: How My Antigravity AI Coding Agent Unmasked Gemini’s Hidden Reasoning Layer](https://medium.com/google-cloud/the-thinking-tax-how-my-antigravity-ai-coding-agent-unmasked-geminis-hidden-reasoning-layer-694e0461655b) | Ruban Siva |
 02/05/2026 | [How I coded a Rails 8 CFP app in 30m with Antigravity](https://medium.com/google-cloud/how-i-coded-a-rails-8-cfp-app-in-30m-with-antigravity-29afcf83f8e2) | Riccardo Carlesso |
 01/31/2026 | [Antigravity the Ralph Wiggum style](https://medium.com/google-cloud/antigravity-the-ralph-wiggum-style-ee6784a78237) | Remigiusz Samborski |
 01/23/2026 | [Beyond the “Happy Path”: Adding SpecKit to my Antigravity Workflow](https://medium.com/google-cloud/beyond-the-happy-path-adding-speckit-to-my-antigravity-workflow-db6ed2f6ca0c) | Alvin Prayuda Juniarta Dwiyantoro |
