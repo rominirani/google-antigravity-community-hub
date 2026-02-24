@@ -3,9 +3,11 @@ A list of recommended resources that demonstrate building with Antigravity (e.g.
 
 | Publication Date (MM/DD/YYYY) | Title (link) | Author | 
 | :--- | :--- |:--- |
+02/24/2026 | [Increasing test coverage with Antigravity & Gemini](https://blog.ankur.cc/increasing-test-coverage-with-antigravity-gemini) | Ankur Kotwal |
 02/23/2026 | [Great-looking UIs with Google Stitch and Google Antigravity](https://medium.com/google-cloud/great-looking-uis-with-google-stitch-and-google-antigravity-88255c97f291) | Prashanth Subrahmanyam |
 02/21/2026 | [Vibe to Live: Deploying an App to Google Cloud Run with Antigravity and MCP](https://medium.com/google-cloud/vibe-to-live-with-google-cloud-run-and-antigravity-f65260b9e720) | Shuva Jyoti Kar |
 02/20/2026 | [Automating & Mastering Infrastructure Diagrams with Draw.io, MCP, and Antigravity](https://medium.com/google-cloud/automating-mastering-infrastructure-diagrams-with-draw-io-mcp-and-antigravity-2839b78df143) | Ruban Siva |
+02/17/2026 | [Upskilling Antigravity for the Gemini API](https://blog.ankur.cc/upskilling-antigravity-for-the-gemini-api) | Ankur Kotwal |
 02/13/2026 | [The “Thinking Tax”: How My Antigravity AI Coding Agent Unmasked Gemini’s Hidden Reasoning Layer](https://medium.com/google-cloud/the-thinking-tax-how-my-antigravity-ai-coding-agent-unmasked-geminis-hidden-reasoning-layer-694e0461655b) | Ruban Siva |
 02/05/2026 | [How I coded a Rails 8 CFP app in 30m with Antigravity](https://medium.com/google-cloud/how-i-coded-a-rails-8-cfp-app-in-30m-with-antigravity-29afcf83f8e2) | Riccardo Carlesso |
 01/31/2026 | [Antigravity the Ralph Wiggum style](https://medium.com/google-cloud/antigravity-the-ralph-wiggum-style-ee6784a78237) | Remigiusz Samborski |
