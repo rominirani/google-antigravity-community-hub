@@ -3,6 +3,10 @@ A list of recommended resources that demonstrate building with Antigravity (e.g.
 
 | Publication Date (MM/DD/YYYY) | Title (link) | Author | 
 | :--- | :--- |:--- |
+03/02/2026 | [Integrate NotebookLM with Gemini CLI, Google Antigravity or Other Agents with MCP](https://medium.com/google-cloud/integrate-notebooklm-with-gemini-cli-google-antigravity-or-other-agents-with-mcp-cd83b575dc39) | Dazbo (Darren Lester) |
+02/28/2026 | [Connect to a serverless Apache Spark notebook in Google Antigravity](https://medium.com/google-cloud/connect-to-a-serverless-apache-spark-notebook-in-googleantigravity-380b59e49c13) | Brad Miro |
+02/24/2026 | [Skills Made Easy with Google Antigravity and Gemini CLI](https://medium.com/google-cloud/skills-made-easy-with-google-antigravity-and-gemini-cli-5435139b0af8) | Karl Weinmeister |
+02/24/2026 | [Top Questions Answered: Getting Started with Antigravity](https://medium.com/google-cloud/top-questions-answered-getting-started-with-antigravity-1b9dd24011d9) | Tianzi Cai |
 02/24/2026 | [Increasing test coverage with Antigravity & Gemini](https://blog.ankur.cc/increasing-test-coverage-with-antigravity-gemini) | Ankur Kotwal |
 02/23/2026 | [Great-looking UIs with Google Stitch and Google Antigravity](https://medium.com/google-cloud/great-looking-uis-with-google-stitch-and-google-antigravity-88255c97f291) | Prashanth Subrahmanyam |
 02/21/2026 | [Vibe to Live: Deploying an App to Google Cloud Run with Antigravity and MCP](https://medium.com/google-cloud/vibe-to-live-with-google-cloud-run-and-antigravity-f65260b9e720) | Shuva Jyoti Kar |
