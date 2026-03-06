@@ -3,6 +3,7 @@ A list of recommended resources that demonstrate building with Antigravity (e.g.
 
 | Publication Date (MM/DD/YYYY) | Title (link) | Author | 
 | :--- | :--- |:--- |
+03/05/2026 | [Beyond Tool Use: Implementing “Cognitive Patterns” with Google Antigravity Skills](https://medium.com/google-cloud/beyond-tool-use-implementing-cognitive-patterns-with-google-antigravity-skills-c0eea90fa430) | Shuva Jyoti Kar |
 03/02/2026 | [Integrate NotebookLM with Gemini CLI, Google Antigravity or Other Agents with MCP](https://medium.com/google-cloud/integrate-notebooklm-with-gemini-cli-google-antigravity-or-other-agents-with-mcp-cd83b575dc39) | Dazbo (Darren Lester) |
 02/28/2026 | [Connect to a serverless Apache Spark notebook in Google Antigravity](https://medium.com/google-cloud/connect-to-a-serverless-apache-spark-notebook-in-googleantigravity-380b59e49c13) | Brad Miro |
 02/24/2026 | [Skills Made Easy with Google Antigravity and Gemini CLI](https://medium.com/google-cloud/skills-made-easy-with-google-antigravity-and-gemini-cli-5435139b0af8) | Karl Weinmeister |
