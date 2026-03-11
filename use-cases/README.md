@@ -3,6 +3,9 @@ A list of recommended resources that demonstrate building with Antigravity (e.g.
 
 | Publication Date (MM/DD/YYYY) | Title (link) | Author | 
 | :--- | :--- |:--- |
+03/11/2026 | [My First Experience Creating AntiGravity Skills](https://medium.com/google-cloud/my-first-experience-creating-antigravity-skills-7154031fe115) | Shir Meir Lador |
+03/10/2026 | [Creating an ADK Agent Skill in Antigravity](https://medium.com/google-cloud/creating-an-adk-agent-skill-in-antigravity-0031f5f82ccb) | Giovanni Galloro |
+03/08/2026 | [Decoding GCP Billing with Antigravity and BigQuery MCP](https://medium.com/google-cloud/decoding-gcp-billing-with-antigravity-and-bigquery-mcp-1941dd37ae09) | Marcelo Costa |
 03/05/2026 | [Beyond Tool Use: Implementing “Cognitive Patterns” with Google Antigravity Skills](https://medium.com/google-cloud/beyond-tool-use-implementing-cognitive-patterns-with-google-antigravity-skills-c0eea90fa430) | Shuva Jyoti Kar |
 03/02/2026 | [Integrate NotebookLM with Gemini CLI, Google Antigravity or Other Agents with MCP](https://medium.com/google-cloud/integrate-notebooklm-with-gemini-cli-google-antigravity-or-other-agents-with-mcp-cd83b575dc39) | Dazbo (Darren Lester) |
 02/28/2026 | [Connect to a serverless Apache Spark notebook in Google Antigravity](https://medium.com/google-cloud/connect-to-a-serverless-apache-spark-notebook-in-googleantigravity-380b59e49c13) | Brad Miro |
