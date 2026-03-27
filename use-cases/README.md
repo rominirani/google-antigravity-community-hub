@@ -3,6 +3,9 @@ A list of recommended resources that demonstrate building with Antigravity (e.g.
 
 | Publication Date (MM/DD/YYYY) | Title (link) | Author | 
 | :--- | :--- |:--- |
+03/24/2026 | [Full-Stack Vibe Coding: Building Production-Ready Apps with AI Studio, Stitch & Antigravity](https://medium.com/google-cloud/full-stack-vibe-coding-building-production-ready-apps-with-ai-studio-stitch-antigravity-4a25cd293ce6) | Romin Irani |
+03/23/2026 | [Testing Antigravity: Building a Data-Intensive POC at 300km/h](https://medium.com/google-cloud/testing-antigravity-62c2f69b6352) | Patricio Navarro |
+03/19/2026 | [The Era of Agentic AI-First IDEs with Google Antigravity](https://medium.com/google-cloud/the-era-of-agentic-ai-first-ides-with-google-antigravity-323e55bca593) | Juan Guillermo Gómez Torres |
 03/11/2026 | [My First Experience Creating AntiGravity Skills](https://medium.com/google-cloud/my-first-experience-creating-antigravity-skills-7154031fe115) | Shir Meir Lador |
 03/10/2026 | [Creating an ADK Agent Skill in Antigravity](https://medium.com/google-cloud/creating-an-adk-agent-skill-in-antigravity-0031f5f82ccb) | Giovanni Galloro |
 03/08/2026 | [Decoding GCP Billing with Antigravity and BigQuery MCP](https://medium.com/google-cloud/decoding-gcp-billing-with-antigravity-and-bigquery-mcp-1941dd37ae09) | Marcelo Costa |
